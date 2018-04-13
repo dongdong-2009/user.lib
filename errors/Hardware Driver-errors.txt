@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+Errors occurs in hardware drivers with codes 50xxxx
+Errors are classified by different hardware.
+
+
+
+
+
+
+
+
+
+
+
+
+
+<nifamily familyname="Hardware Driver Errors" displayname="Driver">
+</nifamily>
+</nicomment>
+<nierror code="500000">
+LRF (L2A): read unknown error.
+</nierror>
+<nierror code="500001">
+LRF (L2A): read function code error.
+</nierror>
+<nierror code="500002">
+LRF (L2A): read register address error.
+</nierror>
+<nierror code="500003">
+LRF (L2A): read register bytes error.
+</nierror>
+<nierror code="500004">
+LRF (L2A): read register value error.
+</nierror>
+<nierror code="500005">
+LRF (L2A): write unknown error.
+</nierror>
+<nierror code="500006">
+LRF (L2A): write function code error.
+</nierror>
+<nierror code="500007">
+LRF (L2A): write register address error.
+</nierror>
+<nierror code="500008">
+LRF (L2A): write register bytes error.
+</nierror>
+<nierror code="500009">
+LRF (L2A): write register value error.
+</nierror>
+<nierror code="500010">
+LRF (L2A): communication failed temporarily but reconnected successully.
+</nierror>
+<nierror code="500011">
+LRF (L2A): communication has not been established.
+</nierror>
+<nierror code="500100">
+Motor (UIRobot): unknown error.
+</nierror>
+<nierror code="500101">
+Motor (UIRobot): Motor ID not found.
+</nierror>
+<nierror code="500102">
+Motor (UIRobot): Duplicate Motor IDs exist under the same CAN.
+</nierror>
+<nierror code="500103">
+Motor (UIRobot): CAN communication failed.
+</nierror>
+<nierror code="500104">
+Motor (UIRobot): CAN communication failed temporarily but reconnected successully.
+</nierror>
+<nierror code="500200">
+GaugeController (XGS-600): communication failed.
+</nierror>
+<nierror code="500201">
+GaugeController (XGS-600): communication failed temporarily but reconnected successfully.
+</nierror>
+<nierror code="500300">
+Thermometer (RSDS5): communication failed.
+</nierror>
+<nierror code="500301">
+Thermometer (RSDS5): communication failed temporarily but reconnected successfully.
+</nierror>
+<nierror code="500400">
+IOModule (KonNaD): communication failed.
+</nierror>
+<nierror code="500401">
+IOModule (KonNaD): communication failed temporarily but reconnected successfully.
+</nierror>
+</nidocument>

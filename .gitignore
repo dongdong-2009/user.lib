@@ -1,0 +1,23 @@
+# Libraries
+*.lvlibp
+
+# Shared objects
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+
+# Metadata
+*.aliases
+*.lvlps
+
+# Build results
+[Bb]uilds/
+
+# .svn files
+.svn/
+
+# customized
+*.rar

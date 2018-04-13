@@ -1,0 +1,3 @@
+In the Support folder there are two files, "ATM accounts.txt" and "ATM.ini".  The application expects these two files to exist at C:\ProgramData\Composed Systems\ATM.  You will need to copy them to this location manually.
+
+The application will create an event log and save it at C:\ProgramData\Composed Systems\ATM\Log.  You can use these logs with the replay option if you like.
