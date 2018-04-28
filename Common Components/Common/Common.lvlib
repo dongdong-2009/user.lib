@@ -16,6 +16,8 @@
 	<Item Name="Connected Client Cluster.ctl" Type="VI" URL="/&lt;userlib&gt;/Common Components/Common/Connected Client Cluster.ctl"/>
 	<Item Name="Connection Cluster.ctl" Type="VI" URL="/&lt;userlib&gt;/Common Components/Common/Connection Cluster.ctl"/>
 	<Item Name="Create File Named by DataTime.vi" Type="VI" URL="/&lt;userlib&gt;/Common Components/Common/Create File Named by DataTime.vi"/>
+	<Item Name="E-Stop_Button.ctl" Type="VI" URL="/&lt;userlib&gt;/Common Components/Common/E-Stop_Button.ctl"/>
+	<Item Name="Exit_Button.ctl" Type="VI" URL="/&lt;userlib&gt;/Common Components/Common/Exit_Button.ctl"/>
 	<Item Name="Extract Index from Ctrl Label.vi" Type="VI" URL="/&lt;userlib&gt;/Common Components/Common/Extract Index from Ctrl Label.vi"/>
 	<Item Name="GUID-command-data.ctl" Type="VI" URL="/&lt;userlib&gt;/Common Components/Common/GUID-command-data.ctl"/>
 	<Item Name="Msg ListBox Append.vi" Type="VI" URL="/&lt;userlib&gt;/Common Components/Common/Msg ListBox Append.vi"/>

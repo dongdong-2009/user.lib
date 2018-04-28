@@ -20,6 +20,8 @@
 		<Item Name="Update Connected Clients Msg.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/Common Components/Function Messages/Update Connected Clients Msg/Update Connected Clients Msg.lvclass"/>
 		<Item Name="Wait till Interval Msg.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/Common Components/Function Messages/Dec No of Core Iter Msg/Wait till Interval Msg.lvclass"/>
 		<Item Name="Action Dispatch Msg.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/Common Components/Function Messages/Action Dispatch Msg/Action Dispatch Msg.lvclass"/>
+		<Item Name="Disconnect All Msg.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/Common Components/Function Messages/Disconnect All Msg/Disconnect All Msg.lvclass"/>
+		<Item Name="Disconnect One Msg.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/Common Components/Function Messages/Disconnect One Msg/Disconnect One Msg.lvclass"/>
 	</Item>
 	<Item Name="Function.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/Common Components/Function Actor/Function.lvclass"/>
 </Library>

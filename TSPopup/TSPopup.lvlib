@@ -5,6 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Hardware Device Subpanel.vi" Type="VI" URL="/&lt;userlib&gt;/TSPopup/Hardware Device Subpanel.vi"/>
+	<Item Name="Init MCListbox Color.vi" Type="VI" URL="/&lt;userlib&gt;/TSPopup/Init MCListbox Color.vi"/>
 	<Item Name="Input Dynamic Data Types.vi" Type="VI" URL="/&lt;userlib&gt;/TSPopup/Input Dynamic Data Types.vi"/>
 	<Item Name="tree for Hardware Device Subpanel.vi" Type="VI" URL="/&lt;userlib&gt;/TSPopup/tree for Hardware Device Subpanel.vi"/>
 	<Item Name="TSPopup.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/TSPopup/TSPopup.lvclass"/>
